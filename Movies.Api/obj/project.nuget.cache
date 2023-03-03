@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kJXIOceRd6zfFMTo/ArCjTSYpDtGIN+BfG0JFTnwvWE9e0I5QNJKZ9jAYf2pAZfMeI0aZ6/uj/f+5pjaLGqZ3g==",
+  "dgSpecHash": "H0ieS6JlYdLHKc6SBFgxg6Q03R/oZ5+Dq+q7SQeBtO0PLw6bwv+UQgYmpYtLblUh6bHlyWQtCIwEOsbnEkpWlw==",
   "success": true,
   "projectFilePath": "D:\\RiderProjects\\RestApiCourse\\Movies.Api\\Movies.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
