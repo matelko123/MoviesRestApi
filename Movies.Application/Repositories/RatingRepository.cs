@@ -48,4 +48,15 @@ public class RatingRepository : IRatingRepository
             where movieid = @movieId
             """, new { movieId, userId }, cancellationToken: token));
     }
+
+    public async Task<bool> DeleteRatingAsync(Guid movieId, Guid userId, CancellationToken token = default)
+    { 
+        using IDbConnection connection = await _connectionFactory.CreateConnectionAsync(token);
+        int result = await connection.ExecuteAsync(new CommandDefinition("""
+            delete from ratings
+            where movieid = @movieId
+            and userid = @userId
+            """, new { userId, movieId }, cancellationToken: token));
+        return result > 0;
+    }
 }
