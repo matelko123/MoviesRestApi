@@ -28,7 +28,7 @@ public static class ContractMapping
         };
     }
 
-    public static MovieResponse MapToResponse(this Movie movie)
+    public static MovieResponse MapToResponse(this Movie? movie)
     {
         return new MovieResponse
         {
