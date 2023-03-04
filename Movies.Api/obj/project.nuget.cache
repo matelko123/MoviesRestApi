@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "H0ieS6JlYdLHKc6SBFgxg6Q03R/oZ5+Dq+q7SQeBtO0PLw6bwv+UQgYmpYtLblUh6bHlyWQtCIwEOsbnEkpWlw==",
+  "dgSpecHash": "UrKQXWDSW0FKmR8KQX1qSHMaq0U1eJ9X06ILyjvz15oq363sQGjHvQKADglgWeUmj0HkxBGQIa4O64PLGDRT+Q==",
   "success": true,
   "projectFilePath": "D:\\RiderProjects\\RestApiCourse\\Movies.Api\\Movies.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\npgsql\\8.0.0-preview.1\\npgsql.8.0.0-preview.1.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
