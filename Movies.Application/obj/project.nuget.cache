@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2PdpHCW5N9HDKV6oMRKevqDALwtI/s7U//XapHyH5Vcmb+Va1vGFaIAxLvOYVP6+qzlXGIKiXoYNGLN3PnRwcg==",
+  "dgSpecHash": "hDy0Vd4zloMozgPgJ7MdCghXOvwSDmfT4/B+XeHylli2c7JvMN7Z3QAdzf9zu8YF8v2xZzgY4+Yb9d9GufKhJg==",
   "success": true,
   "projectFilePath": "D:\\RiderProjects\\RestApiCourse\\Movies.Application\\Movies.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
