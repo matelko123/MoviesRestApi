@@ -7,4 +7,6 @@ public static class AuthConstants
     
     public const string TrustedMemberPolicyName = "admin";
     public const string TrustedMemberClaimName = "admin";
+
+    public const string ApiKeyHeaderName = "x-api-key";
 }
