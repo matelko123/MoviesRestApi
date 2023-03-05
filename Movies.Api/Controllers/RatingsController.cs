@@ -23,6 +23,8 @@ public class RatingsController : ControllerBase
 
     [Authorize]
     [HttpPut(ApiEndpoints.Movies.Rate)]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status404NotFound)]
     public async Task<IActionResult> RateMovie([FromRoute] Guid id,
         [FromBody] RateMovieRequest request, CancellationToken token)
     {
@@ -33,6 +35,8 @@ public class RatingsController : ControllerBase
 
     [Authorize]
     [HttpDelete(ApiEndpoints.Movies.DeleteRating)]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status404NotFound)]
     public async Task<IActionResult> DeleteRating([FromRoute] Guid id,
         CancellationToken token)
     {
@@ -43,6 +47,7 @@ public class RatingsController : ControllerBase
 
     [Authorize]
     [HttpGet(ApiEndpoints.Ratings.GetUserRatings)]
+    [ProducesResponseType(typeof(IEnumerable<MovieRatingResponse>), StatusCodes.Status200OK)]
     public async Task<IActionResult> GetUserRatings(CancellationToken token)
     {
         Guid? userId = HttpContext.GetUserId();
