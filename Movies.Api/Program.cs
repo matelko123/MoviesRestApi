@@ -55,6 +55,8 @@ WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
         x.ApiVersionReader = new MediaTypeApiVersionReader("api-version");
     }).AddMvc().AddApiExplorer();
 
+    // builder.Services.AddResponseCaching();
+    
     builder.Services.AddControllers();
     
     builder.Services.AddHealthChecks()
@@ -88,6 +90,8 @@ WebApplication app = builder.Build();
     app.UseAuthentication();
     app.UseAuthorization();
 
+    // app.UserCors();
+    // app.UseResponseCaching();
     app.UseMiddleware<ValidationMappingMiddleware>();
     app.MapControllers();
 
