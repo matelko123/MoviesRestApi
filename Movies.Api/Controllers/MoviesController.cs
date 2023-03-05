@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using Asp.Versioning;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Movies.Api.Auth;
 using Movies.Api.Mapping;
@@ -9,6 +10,7 @@ using Movies.Contracts.Responses;
 
 namespace Movies.Api.Controllers;
 
+[ApiVersion(1.0)]
 [ApiController]
 public class MoviesController : ControllerBase
 {
@@ -25,11 +27,11 @@ public class MoviesController : ControllerBase
     {
         Movie movie = request.MapToMovie();
         bool result = await _movieService.CreateAsync(movie, token);
-        return CreatedAtAction(nameof(Get), new { idOrSlug = movie.Id}, movie);
+        return CreatedAtAction(nameof(GetV1), new { idOrSlug = movie.Id}, movie);
     }
 
     [HttpGet(ApiEndpoints.Movies.Get)]
-    public async Task<IActionResult> Get([FromRoute] string idOrSlug, 
+    public async Task<IActionResult> GetV1([FromRoute] string idOrSlug, 
         [FromServices] LinkGenerator linkGenerator,
         CancellationToken token)
     {
@@ -48,7 +50,7 @@ public class MoviesController : ControllerBase
         var movieObj = new { id = movie.Id };
         response.Links.Add(new Link
         {
-            Href = linkGenerator.GetPathByAction(HttpContext, nameof(Get), values: new { idOrSlug = movie.Id }),
+            Href = linkGenerator.GetPathByAction(HttpContext, nameof(GetV1), values: new { idOrSlug = movie.Id }),
             Rel = "self",
             Type = "GET"
         });
