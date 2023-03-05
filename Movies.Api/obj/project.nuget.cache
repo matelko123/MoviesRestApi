@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PKmU6Ke7eedaBsGJ1aCcnvtSaoAMwWpGTLaY2N73y91FdGkRdUejpSaBWEseuCDqQocJifilUjc23lldsaKzdQ==",
+  "dgSpecHash": "ID9U9pDm5ocfb3Ru/gFdkTTELC5mP7954L8YVpiHssrBK31s3kX8hsp+AGjGAjB4aPr9qQxcU01eRXgUb7vklg==",
   "success": true,
   "projectFilePath": "D:\\RiderProjects\\RestApiCourse\\Movies.Api\\Movies.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu\\.nuget\\packages\\asp.versioning.abstractions\\7.0.0\\asp.versioning.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\asp.versioning.http\\7.0.0\\asp.versioning.http.7.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\asp.versioning.mvc\\7.0.0\\asp.versioning.mvc.7.0.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\asp.versioning.mvc.apiexplorer\\7.0.0\\asp.versioning.mvc.apiexplorer.7.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",

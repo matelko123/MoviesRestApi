@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Asp.Versioning.Mvc.ApiExplorer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[7.0.3, )"

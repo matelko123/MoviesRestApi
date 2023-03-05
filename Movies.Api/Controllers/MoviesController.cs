@@ -27,11 +27,11 @@ public class MoviesController : ControllerBase
     {
         Movie movie = request.MapToMovie();
         bool result = await _movieService.CreateAsync(movie, token);
-        return CreatedAtAction(nameof(GetV1), new { idOrSlug = movie.Id}, movie);
+        return CreatedAtAction(nameof(Get), new { idOrSlug = movie.Id}, movie);
     }
 
     [HttpGet(ApiEndpoints.Movies.Get)]
-    public async Task<IActionResult> GetV1([FromRoute] string idOrSlug,
+    public async Task<IActionResult> Get([FromRoute] string idOrSlug,
         CancellationToken token)
     {
         Guid? userId = HttpContext.GetUserId();
