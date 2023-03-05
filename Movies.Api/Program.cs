@@ -38,8 +38,11 @@ WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
     builder.Services.AddAuthorization(x =>
     {
-        x.AddPolicy(AuthConstants.AdminUserPolicyName, p => 
-            p.RequireClaim(AuthConstants.AdminUserClaimName, "true"));
+        /*x.AddPolicy(AuthConstants.AdminUserPolicyName, p => 
+            p.RequireClaim(AuthConstants.AdminUserClaimName, "true"));*/
+        
+        x.AddPolicy(AuthConstants.AdminUserPolicyName,
+            p => p.AddRequirements(new AdminAuthRequirement(config.GetValue<string>("ApiKey")!)));
 
         x.AddPolicy(AuthConstants.TrustedMemberPolicyName, p =>
             p.RequireAssertion(c =>
