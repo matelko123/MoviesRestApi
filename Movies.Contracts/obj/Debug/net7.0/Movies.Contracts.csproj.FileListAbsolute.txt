@@ -1,0 +1,12 @@
+D:\RiderProjects\RestApiCourse\Movies.Contracts\bin\Debug\net7.0\Movies.Contracts.deps.json
+D:\RiderProjects\RestApiCourse\Movies.Contracts\bin\Debug\net7.0\Movies.Contracts.dll
+D:\RiderProjects\RestApiCourse\Movies.Contracts\bin\Debug\net7.0\Movies.Contracts.pdb
+D:\RiderProjects\RestApiCourse\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.csproj.AssemblyReference.cache
+D:\RiderProjects\RestApiCourse\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\RestApiCourse\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.AssemblyInfoInputs.cache
+D:\RiderProjects\RestApiCourse\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.AssemblyInfo.cs
+D:\RiderProjects\RestApiCourse\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.csproj.CoreCompileInputs.cache
+D:\RiderProjects\RestApiCourse\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.dll
+D:\RiderProjects\RestApiCourse\Movies.Contracts\obj\Debug\net7.0\refint\Movies.Contracts.dll
+D:\RiderProjects\RestApiCourse\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.pdb
+D:\RiderProjects\RestApiCourse\Movies.Contracts\obj\Debug\net7.0\ref\Movies.Contracts.dll

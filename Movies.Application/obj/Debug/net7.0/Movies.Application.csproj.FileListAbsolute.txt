@@ -1,0 +1,12 @@
+D:\RiderProjects\RestApiCourse\Movies.Application\bin\Debug\net7.0\Movies.Application.deps.json
+D:\RiderProjects\RestApiCourse\Movies.Application\bin\Debug\net7.0\Movies.Application.dll
+D:\RiderProjects\RestApiCourse\Movies.Application\bin\Debug\net7.0\Movies.Application.pdb
+D:\RiderProjects\RestApiCourse\Movies.Application\obj\Debug\net7.0\Movies.Application.csproj.AssemblyReference.cache
+D:\RiderProjects\RestApiCourse\Movies.Application\obj\Debug\net7.0\Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\RestApiCourse\Movies.Application\obj\Debug\net7.0\Movies.Application.AssemblyInfoInputs.cache
+D:\RiderProjects\RestApiCourse\Movies.Application\obj\Debug\net7.0\Movies.Application.AssemblyInfo.cs
+D:\RiderProjects\RestApiCourse\Movies.Application\obj\Debug\net7.0\Movies.Application.csproj.CoreCompileInputs.cache
+D:\RiderProjects\RestApiCourse\Movies.Application\obj\Debug\net7.0\Movies.Application.dll
+D:\RiderProjects\RestApiCourse\Movies.Application\obj\Debug\net7.0\refint\Movies.Application.dll
+D:\RiderProjects\RestApiCourse\Movies.Application\obj\Debug\net7.0\Movies.Application.pdb
+D:\RiderProjects\RestApiCourse\Movies.Application\obj\Debug\net7.0\ref\Movies.Application.dll

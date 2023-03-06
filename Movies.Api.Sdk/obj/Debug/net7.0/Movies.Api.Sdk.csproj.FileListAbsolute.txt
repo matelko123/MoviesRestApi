@@ -1,0 +1,15 @@
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\bin\Debug\net7.0\Movies.Api.Sdk.deps.json
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\bin\Debug\net7.0\Movies.Api.Sdk.dll
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\bin\Debug\net7.0\Movies.Api.Sdk.pdb
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\bin\Debug\net7.0\Movies.Contracts.dll
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\bin\Debug\net7.0\Movies.Contracts.pdb
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\obj\Debug\net7.0\Movies.Api.Sdk.csproj.AssemblyReference.cache
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\obj\Debug\net7.0\Movies.Api.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\obj\Debug\net7.0\Movies.Api.Sdk.AssemblyInfoInputs.cache
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\obj\Debug\net7.0\Movies.Api.Sdk.AssemblyInfo.cs
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\obj\Debug\net7.0\Movies.Api.Sdk.csproj.CoreCompileInputs.cache
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\obj\Debug\net7.0\Movies.Api.Sdk.csproj.CopyComplete
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\obj\Debug\net7.0\Movies.Api.Sdk.dll
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\obj\Debug\net7.0\refint\Movies.Api.Sdk.dll
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\obj\Debug\net7.0\Movies.Api.Sdk.pdb
+D:\RiderProjects\RestApiCourse\Movies.Api.Sdk\obj\Debug\net7.0\ref\Movies.Api.Sdk.dll

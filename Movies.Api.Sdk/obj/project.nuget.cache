@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMkQB3+ea6AG+JJxYoBm4yrYeFJOPv3eDtiXOnA36dCK10m5xv9MC3IPtICKedB/Hc0JY/dtIqxml0gFn+uKAw==",
+  "success": true,
+  "projectFilePath": "D:\\RiderProjects\\RestApiCourse\\Movies.Api.Sdk\\Movies.Api.Sdk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
