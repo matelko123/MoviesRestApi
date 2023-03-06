@@ -2,7 +2,7 @@
 
 public class GetAllMoviesRequest : PagedRequest
 {
-    public required string? Title { get; init; }
-    public required int? Year { get; init; }
-    public required string? SortBy { get; init; }
+    public string? Title { get; init; }
+    public int? Year { get; init; }
+    public string? SortBy { get; init; }
 }
