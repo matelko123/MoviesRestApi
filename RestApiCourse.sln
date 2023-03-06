@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Contracts", "Movies.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.Api", "C:\Users\mateu\Downloads\5.1\rest-api-course-final-master\Helpers\Identity.Api\Identity.Api.csproj", "{CC314561-48D7-4F64-A3DF-0A60D7085F5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Api.Sdk", "Movies.Api.Sdk\Movies.Api.Sdk.csproj", "{0E766F49-96E0-4C42-8A12-33C50ECA656D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Api.Sdk.Consumer", "Movies.Api.Sdk.Consumer\Movies.Api.Sdk.Consumer.csproj", "{DB1F286D-7663-4BC0-8276-4981A7832988}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{CC314561-48D7-4F64-A3DF-0A60D7085F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC314561-48D7-4F64-A3DF-0A60D7085F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC314561-48D7-4F64-A3DF-0A60D7085F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E766F49-96E0-4C42-8A12-33C50ECA656D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E766F49-96E0-4C42-8A12-33C50ECA656D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E766F49-96E0-4C42-8A12-33C50ECA656D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E766F49-96E0-4C42-8A12-33C50ECA656D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB1F286D-7663-4BC0-8276-4981A7832988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1F286D-7663-4BC0-8276-4981A7832988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1F286D-7663-4BC0-8276-4981A7832988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1F286D-7663-4BC0-8276-4981A7832988}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
